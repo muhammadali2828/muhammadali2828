@@ -1,4 +1,3 @@
-Here’s the updated README for your GitHub profile:  
 
 ---
 
