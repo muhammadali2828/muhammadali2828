@@ -16,5 +16,3 @@ Hi there! I'm **Muhammad Ali**, a **3rd-semester Software Engineering student** 
 - **GitHub**: [muhammadali2828](https://github.com/muhammadali2828)  
 
 ---
-
-Let me know if there’s anything else you’d like to add!
