@@ -3,7 +3,7 @@
 
 # Welcome to Muhammad Ali's GitHub 👋  
 
-Hi there! I'm **Muhammad Ali**, a **4th-semester Software Engineering student** at **Superior University**, passionate about **Artificial Intelligence**, **Data Structures**, and **Problem Solving**. My repository showcases my academic journey and projects, reflecting my growth in programming and AI.  
+Hi there! I'm **Muhammad Ali**, a **6th-semester Software Engineering student** at **Superior University**, passionate about **Artificial Intelligence**, **Data Structures**, and **Problem Solving**. My repository showcases my academic journey and projects, reflecting my growth in programming and AI.  
 
 ## 🚀 What You'll Find Here:  
 - 📘 **Academic Projects**: Assignments and lab work in **Data Structures**, **Artificial Intelligence** 
